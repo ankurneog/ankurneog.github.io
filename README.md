@@ -17,7 +17,7 @@ I am already in touch with many of you from the college through the Alumni commu
 
 ## Opensource Contribution
 
-Details on my open source contribution can be found through my [github_profile](https://github.com/ankurneog)
+Details on my open source contribution can be found through my [githubProfile](https://github.com/ankurneog)
 
 ## Patents
-Details of my  patents can be found in  [GooglePatens](https://patents.google.com/?inventor=ankur+neog&oq=ankur+neog)
+Details of my  patents can be found in  [GooglePatents](https://patents.google.com/?inventor=ankur+neog&oq=ankur+neog)
