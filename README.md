@@ -1,4 +1,3 @@
-# ANKUR NEOG
 ## About me 
 Hello there!
 I am an AI ethusiast like everyone else in the world these days. My job at [Intel](https://www.intel.com/content/www/us/en/products/docs/accelerator-engines/ai-engines.html) facilitates me to contribute towards making AI accessible to all. 
@@ -21,4 +20,4 @@ I am already in touch with many of you from the college through the Alumni commu
 Details on my open source contribution can be found through my [github_profile](https://github.com/ankurneog)
 
 ## Patents
-You can go over the details of the patents can be found in  [GooglePatens](https://patents.google.com/?inventor=ankur+neog&oq=ankur+neog)
+Details of my  patents can be found in  [GooglePatens](https://patents.google.com/?inventor=ankur+neog&oq=ankur+neog)
